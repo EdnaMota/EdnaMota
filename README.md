@@ -1,11 +1,11 @@
 ### Hi! I'm Edna. Nice to meet you!👋
 
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript.
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
 - 👯 I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me: edna.mota.dev@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: learning French and the keyboard by myself.
--->
+
 
 <div align="center">
   <a href="https://github.com/ednamota">
